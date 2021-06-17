@@ -122,3 +122,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+
+*.ps1
+
+metadata.yml
+
+VERSION
+
+.vscode/
